@@ -1,4 +1,4 @@
-//Sending Values as Method arguments
+//Sending Values as Method arguments.
 
 package max;
 
